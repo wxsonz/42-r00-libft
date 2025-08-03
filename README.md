@@ -1,5 +1,5 @@
 # Libft
-### These repo only contains original libft
+### This repo only contains original libft
 i might make BeyondLibft later (BLFS naming yoink)\
 you can expect some werid code in here\
 because of optimization i intepreted from musl, glibc, FreeBSD, etc.\

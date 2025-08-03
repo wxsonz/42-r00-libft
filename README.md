@@ -1,9 +1,12 @@
 # Libft
 
-you can expect some werid code in here because of optimization i intepreted from musl, glibc, FreeBSD, etc.
-but it's quick for me but messy.
+you can expect some werid code in here 
+because of optimization i intepreted from musl, glibc, FreeBSD, etc.
 
-i tends to use 0x or 0b.
+### it's quick but messy.
+
+for now you can probably read the comment in each file on what it does
+i will simplify the code later since it is hard to read
 
 the key takeaway here is that
 because the project is to recreate some of the c library

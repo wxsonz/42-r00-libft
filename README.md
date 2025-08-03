@@ -1,8 +1,9 @@
 # Libft
-\
+### These repo only contains original libft
+i might make BeyondLibft later (BLFS naming yoink)\
 you can expect some werid code in here\
 because of optimization i intepreted from musl, glibc, FreeBSD, etc.\
-\
+
 ### it's quick but messy.
 \
 for now you can probably read the comment in each file on what it does\
@@ -15,4 +16,4 @@ musl - simple and short probably black magic\
 glibc - insane optimization but hard to intepret\
 FreeBSD - good optimization and mostly with primitive C\
 \
-note: the code itself is pretty messy by my current standard but that is ok\
+note: the code itself is pretty messy by my current standard but that is ok

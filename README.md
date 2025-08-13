@@ -17,3 +17,5 @@ glibc - insane optimization but hard to intepret\
 FreeBSD - good optimization and mostly with primitive C\
 \
 note: the code itself is pretty messy by my current standard but that is ok
+
+บอกเลย หิวข้าว

@@ -2,7 +2,7 @@
 ### This repo only contains original libft
 i might make BeyondLibft later (BLFS naming yoink)\
 you can expect some werid code in here\
-because of optimization i intepreted from musl, glibc, FreeBSD, etc.\
+because of optimization i intepreted from musl, glibc, FreeBSD, etc.
 
 ### it's quick but messy.
 \
@@ -16,6 +16,13 @@ musl - simple and short probably black magic\
 glibc - insane optimization but hard to intepret\
 FreeBSD - good optimization and mostly with primitive C\
 \
-note: the code itself is pretty messy by my current standard but that is ok
-
-บอกเลย หิวข้าว
+note: the code itself is pretty messy by my current standard but that is ok\
+\
+บอกเลย หิวข้าว\
+\
+short guide\
+if you are unsure on how to start the project\
+make an overall structure first then adding more in\
+makefile -> header -> ft_xxx.c something\
+\
+if that doesn't help then break it down even more\
